@@ -46,13 +46,13 @@ def palindrome(s):
 Time Complexity: O(n)
 Space Complexity: O(1)
 
-##What I Learned
+## What I Learned
 
 Different ways to solve the same problem
 String manipulation in Python
 Two pointers technique
 Time and space complexity analysis
 
-##Author
+## Author
 
 Zouhour Bellamine
